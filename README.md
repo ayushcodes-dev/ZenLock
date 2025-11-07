@@ -52,3 +52,7 @@ npm install
 
 # Run the development server
 npm run dev
+
+# if it not run
+cd zenlock
+npm install
