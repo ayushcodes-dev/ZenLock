@@ -9,7 +9,7 @@ Because managing passwords shouldn’t be stressful — it should feel Zen. 🌿
 
 ## ✨ Features
 
-- 🔒 **Secure Storage** — All your passwords are encrypted and stored locally for maximum privacy.  
+- 🔒 **Secure Storage** — All your passwords are encrypted and stored locally on your device for maximum privacy.  
 - ⚙️ **Smart Password Generator** — Instantly create strong, random, and unique passwords.  
 - 📋 **One-Click Copy** — Copy passwords or usernames instantly and safely.  
 - 💾 **Local-First** — Your data never leaves your device.  
