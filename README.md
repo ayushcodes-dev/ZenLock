@@ -42,7 +42,7 @@ Follow these simple steps to run ZenLock locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/zenlock.git
+git clone https://github.com/ayushcodes-dev/ZenLock.git
 
 # Go into the project folder
 cd zenlock
