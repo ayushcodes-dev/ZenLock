@@ -5,6 +5,7 @@ It helps you **store, generate, and manage passwords** safely — all within a s
 
 Because managing passwords shouldn’t be stressful — it should feel Zen. 🌿
 
+See Live Demo - https://zen-lock-gray.vercel.app
 ---
 
 ## ✨ Features
