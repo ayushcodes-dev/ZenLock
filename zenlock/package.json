@@ -19,6 +19,7 @@
     "@types/node": "^20",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "baseline-browser-mapping": "latest",
     "eslint": "^9",
     "eslint-config-next": "latest",
     "tailwindcss": "^4",
